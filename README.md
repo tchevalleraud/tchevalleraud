@@ -14,7 +14,7 @@
 
 ### Languages and tools :
 
-
+[<img align="left" alt="PHPStorm" width="26px" src="https://user-images.githubusercontent.com/37927824/90391210-065d2680-e08d-11ea-962c-41ebb0659183.jpg" />][webdevplaylist]
 
 [website]: http://thibault-chevalleraud.fr/
 [website_interdata]: https://www.interdata.fr/
