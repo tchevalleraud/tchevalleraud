@@ -15,6 +15,8 @@
 ### Languages and tools :
 
 [<img align="left" alt="PHPStorm" width="26px" src="https://user-images.githubusercontent.com/37927824/90391210-065d2680-e08d-11ea-962c-41ebb0659183.jpg" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37927824/90391571-a5821e00-e08d-11ea-860b-dd657747297a.png" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37927824/90391638-c0549280-e08d-11ea-995b-5f1a009f15cc.png" />][website]
 
 [website]: http://thibault-chevalleraud.fr/
 [website_interdata]: https://www.interdata.fr/
