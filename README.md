@@ -1,6 +1,6 @@
 # I'm a network engineer, developer and teacher !
 
-- :fireworks: Currently dear [Interdata][interdta] network pre-sales engineer
+- :fireworks: Currently dear [Interdata][website] network pre-sales engineer
 
 <!--
 **tchevalleraud/tchevalleraud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[interdata]: https://www.interdata.fr/
+
+[website]: https://www.interdata.fr/
