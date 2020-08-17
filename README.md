@@ -15,6 +15,7 @@
 ### Languages and tools :
 
 [<img align="left" alt="PHPStorm" height="26px" src="https://user-images.githubusercontent.com/37927824/90391210-065d2680-e08d-11ea-962c-41ebb0659183.jpg" />][website]
+[<img align="left" alt="VSCode" height="26px" src="https://user-images.githubusercontent.com/37927824/90391958-4b358d00-e08e-11ea-8152-606f563a9e6c.png" />][website]
 [<img align="left" alt="HTML5" height="26px" src="https://user-images.githubusercontent.com/37927824/90391571-a5821e00-e08d-11ea-860b-dd657747297a.png" />][website]
 [<img align="left" alt="CSS" height="26px" src="https://user-images.githubusercontent.com/37927824/90391638-c0549280-e08d-11ea-995b-5f1a009f15cc.png" />][website]
 [<img align="left" alt="JS" height="26px" src="https://user-images.githubusercontent.com/37927824/90391699-d8c4ad00-e08d-11ea-90e5-8d4b1a72ede6.png" />][website]
