@@ -1,20 +1,22 @@
 # I'm a network engineer, developer and teacher !
 
-- :fireworks: Currently dear [Interdata][website] network pre-sales engineer
+- :fireworks: Currently work at [INTERDATA][website_interdata] network pre-sales engineer
+- :mortar_board: Teaches at [UPEC][website_upec]
 
-<!--
-**tchevalleraud/tchevalleraud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me :
 
-Here are some ideas to get you started:
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and tools :
 
-[website]: https://www.interdata.fr/
+
+
+[website]: http://thibault-chevalleraud.fr/
+[website_interdata]: https://www.interdata.fr/
+[website_upec]: https://www.u-pec.fr/
+[twitter]: https://twitter.com/tchib28
+[linkedin]:https://www.linkedin.com/in/thibault-chevalleraud/
+[instagram]: https://www.instagram.com/tchib28/
