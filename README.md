@@ -1,6 +1,6 @@
 # I'm a network engineer, developer and teacher !
 
-- :fireworks: Currently work at [METSYS][website_metsys] network pre-sales engineer
+- :fireworks: Currently work at [METSYS][website_metsys] Head of Network Security
 - :mortar_board: Teaches at [UPEC][website_upec]
 
 ### Connect with me :
