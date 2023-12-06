@@ -1,6 +1,6 @@
 # I'm a network engineer, developer and teacher !
 
-- :fireworks: Currently work at [METSYS][website_metsys] Head of Network Security
+- :fireworks: Currently work at [Extreme Network][website_extreme] - Sr System Engineer
 - :mortar_board: Teaches at [UPEC][website_upec]
 
 ### Connect with me :
@@ -28,7 +28,7 @@
 [<img align="left" alt="Cli" height="26px" src="https://user-images.githubusercontent.com/37927824/90391870-22ad9300-e08e-11ea-90be-bf4fa1fbcc20.png" />][website]
 
 [website]: http://thibault-chevalleraud.fr/
-[website_metsys]: https://www.metsys.fr/
+[website_extreme]: https://extremenetworks.com/
 [website_upec]: https://www.u-pec.fr/
 [twitter]: https://twitter.com/tchib28
 [linkedin]:https://www.linkedin.com/in/thibault-chevalleraud/
