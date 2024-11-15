@@ -1,4 +1,11 @@
-# I'm a network engineer, developer and teacher !
+## About Me
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tchevalleraud&column=8&margin-w=15&margin-h=15&row=1)](https://github.com/tchevalleraud/github-profile-trophy)
+
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=16px> Skills & Tools</h2>
+
+# Old
+## I'm a network engineer, developer and teacher !
 
 - :fireworks: Currently work at [Extreme Network][website_extreme] - Sr System Engineer
 - :mortar_board: Teaches at [UPEC][website_upec]
