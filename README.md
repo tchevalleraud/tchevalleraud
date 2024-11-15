@@ -1,8 +1,8 @@
-## About Me
+<h2><img src="https://github.com/user-attachments/assets/2a9b9fce-1c56-4a27-8635-407dbf8804be" width=24px> About Me</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tchevalleraud&column=8&margin-w=15&margin-h=15&row=1)](https://github.com/tchevalleraud/github-profile-trophy)
 
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=16px> Skills & Tools</h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=16px> Skills & Tools</h2>
 
 # Old
 ## I'm a network engineer, developer and teacher !
