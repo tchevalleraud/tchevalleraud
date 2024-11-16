@@ -2,45 +2,51 @@
 
 <h2><img src="https://github.com/user-attachments/assets/2a9b9fce-1c56-4a27-8635-407dbf8804be" width=24px> About Me</h2>
 
-- I'm currently workins as a Sr. Systems Engineer
+<p>
+  I'm Thibault, Sr. Systems Engineer at <img src="https://github.com/user-attachments/assets/8f5e3c9f-34d1-41ac-8c28-7b8c7052a24a" width="13"/> <b>Extreme Networks</b>, and Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>.
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tchevalleraud&column=8&margin-w=15&margin-h=15&row=1)](https://github.com/tchevalleraud/github-profile-trophy)
+🔗 &nbsp;**Connect with me**
+<p align="left">
+  <a href="https://github.com/tchevalleraud" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://twitter.com/tchib28" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thibault-chevalleraud" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@thibault.chevalleraud" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=16px> Skills & Tools</h2>
 
-# Old
-## I'm a network engineer, developer and teacher !
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,ansible,azure,bootstrap,css,docker,git,github,githubactions,grafana,html,js,jquery,latex,linux,mongodb,mysql,nginx,php,phpstorm,pug,pycharm,py,regex,sass,symfony" />
+  </a>
+</p>
 
-- :fireworks: Currently work at [Extreme Network][website_extreme] - Sr System Engineer
-- :mortar_board: Teaches at [UPEC][website_upec]
+<h2>:trophy: My stats</h2>
 
-### Connect with me :
+[![trophy](https://github-profile-trophy.vercel.app/?username=tchevalleraud&column=8&margin-w=15&margin-h=15&row=1)](https://github.com/tchevalleraud/github-profile-trophy)
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
-
-### Languages and tools :
-
-[<img align="left" alt="PHPStorm" height="26px" src="https://user-images.githubusercontent.com/37927824/90391210-065d2680-e08d-11ea-962c-41ebb0659183.jpg" />][website]
-[<img align="left" alt="VSCode" height="26px" src="https://user-images.githubusercontent.com/37927824/90391958-4b358d00-e08e-11ea-8152-606f563a9e6c.png" />][website]
-[<img align="left" alt="HTML5" height="26px" src="https://user-images.githubusercontent.com/37927824/90391571-a5821e00-e08d-11ea-860b-dd657747297a.png" />][website]
-[<img align="left" alt="CSS" height="26px" src="https://user-images.githubusercontent.com/37927824/90391638-c0549280-e08d-11ea-995b-5f1a009f15cc.png" />][website]
-[<img align="left" alt="JS" height="26px" src="https://user-images.githubusercontent.com/37927824/90391699-d8c4ad00-e08d-11ea-90e5-8d4b1a72ede6.png" />][website]
-[<img align="left" alt="PHP" height="26px" src="https://user-images.githubusercontent.com/37927824/90391727-e5490580-e08d-11ea-9853-8e601250f92a.png" />][website]
-[<img align="left" alt="Symfony" height="26px" src="https://user-images.githubusercontent.com/37927824/90391768-f5f97b80-e08d-11ea-8657-357a68550ce8.png" />][website]
-[<img align="left" alt="MySQL" height="26px" src="https://user-images.githubusercontent.com/37927824/90391780-fc87f300-e08d-11ea-9fa9-bb840c67b38e.png" />][website]
-[<img align="left" alt="Git" height="26px" src="https://user-images.githubusercontent.com/37927824/90391831-145f7700-e08e-11ea-9610-a0ac5a620faf.jpg" />][website]
-[<img align="left" alt="Github" height="26px" src="https://user-images.githubusercontent.com/37927824/90391840-19242b00-e08e-11ea-9343-4c84b5a7f609.png" />][website]
-[<img align="left" alt="Docker" height="26px" src="https://user-images.githubusercontent.com/37927824/90391854-1de8df00-e08e-11ea-884e-0778aa74dd36.png" />][website]
-[<img align="left" alt="Cli" height="26px" src="https://user-images.githubusercontent.com/37927824/90391870-22ad9300-e08e-11ea-90be-bf4fa1fbcc20.png" />][website]
-
-[website]: http://thibault-chevalleraud.fr/
-[website_extreme]: https://extremenetworks.com/
-[website_upec]: https://www.u-pec.fr/
-[twitter]: https://twitter.com/tchib28
-[linkedin]:https://www.linkedin.com/in/thibault-chevalleraud/
-[instagram]: https://www.instagram.com/tchib28/
+<p align="center">
+  <a href="https://github.com/tchevalleraud/">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tchevalleraud" />
+  </a>
+  <a href="https://github.com/tchevalleraud/">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tchevalleraud&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/tchevalleraud/extremenetworks-api-xiqse">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=extremenetworks-api-xiqse" />
+  </a>
+  <a href="https://github.com/tchevalleraud/how-to-extremenetworks">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=how-to-extremenetworks" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/tchevalleraud/ansible_collections.extreme.xiqse">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible_collections.extreme.xiqse" />
+  </a>
+  <a href="https://github.com/tchevalleraud/ansible_collections.extreme.voss">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible_collections.extreme.voss" />
+  </a>
+</p>
