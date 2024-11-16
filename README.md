@@ -14,6 +14,36 @@
   <a href="https://medium.com/@thibault.chevalleraud" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
+<h2><img src="https://github.com/user-attachments/assets/40383f6f-dc9e-434e-bbdf-211cf84dd1a8" width=16px> My Project & Github Gist</h2>
+
+<p align="center">
+  <a href="https://github.com/tchevalleraud/extremenetworks-api-xiqse">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=extremenetworks-api-xiqse" />
+  </a>
+  <a href="https://github.com/tchevalleraud/how-to-extremenetworks">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=how-to-extremenetworks" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tchevalleraud/ansible_collections.extreme.xiqse">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible_collections.extreme.xiqse" />
+  </a>
+  <a href="https://github.com/tchevalleraud/ansible_collections.extreme.voss">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible_collections.extreme.voss" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gist.github.com/tchevalleraud/93a85ea7788d0a2e5e6294558b8a7ca4">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=93a85ea7788d0a2e5e6294558b8a7ca4" />
+  </a>
+  <a href="https://gist.github.com/tchevalleraud/dab0244165c3a42702fe07377f5035f9">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=dab0244165c3a42702fe07377f5035f9" />
+  </a>
+</p>
+
+
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=16px> Skills & Tools</h2>
 
 <p align="center">
@@ -24,8 +54,6 @@
 
 <h2>:trophy: My stats</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tchevalleraud&column=8&margin-w=15&margin-h=15&row=1)](https://github.com/tchevalleraud/github-profile-trophy)
-
 <p align="center">
   <a href="https://github.com/tchevalleraud/">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tchevalleraud" />
@@ -34,19 +62,5 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tchevalleraud&layout=compact&langs_count=8&card_width=320" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/tchevalleraud/extremenetworks-api-xiqse">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=extremenetworks-api-xiqse" />
-  </a>
-  <a href="https://github.com/tchevalleraud/how-to-extremenetworks">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=how-to-extremenetworks" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/tchevalleraud/ansible_collections.extreme.xiqse">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible_collections.extreme.xiqse" />
-  </a>
-  <a href="https://github.com/tchevalleraud/ansible_collections.extreme.voss">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible_collections.extreme.voss" />
-  </a>
-</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tchevalleraud&column=8&margin-w=15&margin-h=15&row=1)](https://github.com/tchevalleraud/github-profile-trophy)
