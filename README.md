@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/user-attachments/assets/1c7cb544-7f4a-4463-9a3b-6a68485de873)
+
 <h2><img src="https://github.com/user-attachments/assets/2a9b9fce-1c56-4a27-8635-407dbf8804be" width=24px> About Me</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tchevalleraud&column=8&margin-w=15&margin-h=15&row=1)](https://github.com/tchevalleraud/github-profile-trophy)
