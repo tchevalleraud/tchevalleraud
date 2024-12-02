@@ -26,15 +26,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tchevalleraud/ansible_collections.extreme.xiqse">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible_collections.extreme.xiqse" />
-  </a>
-  <a href="https://github.com/tchevalleraud/ansible_collections.extreme.voss">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible_collections.extreme.voss" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://gist.github.com/tchevalleraud/93a85ea7788d0a2e5e6294558b8a7ca4">
     <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=93a85ea7788d0a2e5e6294558b8a7ca4" />
   </a>
