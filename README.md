@@ -14,14 +14,6 @@
   <a href="https://medium.com/@thibault.chevalleraud" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<h2><img src="https://github.com/user-attachments/assets/8f5e3c9f-34d1-41ac-8c28-7b8c7052a24a" width=16px> My Extreme Networks Project</h2>
-
-<p align="center">
-  <a href="https://github.com/tchevalleraud/ansible_extremenetworks_xiqse">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible_extremenetworks_xiqse" />
-  </a>
-</p>
-
 <h2><img src="https://github.com/user-attachments/assets/40383f6f-dc9e-434e-bbdf-211cf84dd1a8" width=16px> My Project & Github Gist</h2>
 
 <p align="center">
