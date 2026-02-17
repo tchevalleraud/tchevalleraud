@@ -29,7 +29,7 @@
 
 <p align="left">
     <a href="https://gist.github.com/tchevalleraud/6ce5c7a7a0e4827462670db2b1b9a55f">
-		<img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/gist?id=6ce5c7a7a0e4827462670db2b1b9a55f&layout=compact&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
+		<img width="560" src="https://denvercoder1-github-readme-stats.vercel.app/api/gist?id=6ce5c7a7a0e4827462670db2b1b9a55f&layout=compact&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
 	</a>
 </p>
 
