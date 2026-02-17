@@ -5,6 +5,9 @@
 <p>
   I'm Thibault, Sr. Systems Engineer at <img src="https://github.com/user-attachments/assets/8f5e3c9f-34d1-41ac-8c28-7b8c7052a24a" width="13"/> <b>Extreme Networks</b>, and Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>.
 </p>
+<p>
+	I work at the intersection of networking and software engineering: network design and operations, automation (IaC), container platforms, and security. I like turning complex infrastructure problems into repeatable, documented solutions—then shipping them as code.
+</p>
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -16,10 +19,13 @@
 
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&bannerText=My+Projects+%26+Github+Gists&backgroundColor=%23440099&color=%237519f9&geoSeed=lg09DmpEDU" />
 <p align="left">
-    <a href="https://github.com/tchevalleraud/XIQSE-SDK-Python">
+	<a href="https://github.com/tchevalleraud/XIQSE-SDK-Python">
 		<img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=XIQSE-SDK-Python&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
 	</a>
-  </p>
+	<a href="https://github.com/tchevalleraud/ansible-test-semaphoreui">
+		<img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
+	</a>
+</p>
 
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2000&bannerText=Skills+%26+Tools" />
 
