@@ -14,7 +14,7 @@
   <a href="https://medium.com/@thibault.chevalleraud" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2000&bannerText=My+Project+%26+Github+Gist" />
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&bannerText=My+Projects+%26+Github+Gists&backgroundColor=%23440099&color=%237519f9&geoSeed=lg09DmpEDU" />
 
 <p align="center">
   <a href="https://github.com/tchevalleraud/extremenetworks-api-xiqse">
