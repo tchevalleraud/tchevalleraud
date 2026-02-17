@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/user-attachments/assets/b931549c-03a6-40d7-abdd-a77e9623c486)
 
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?width=2000&bannerText=About+Me&backgroundColor=%23440099&height=100" />
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&bannerText=About+Me&backgroundColor=%23440099&color=%237519f9&geoSeed=SPtTVhY26j" />
 
 <p>
   I'm Thibault, Sr. Systems Engineer at <img src="https://github.com/user-attachments/assets/8f5e3c9f-34d1-41ac-8c28-7b8c7052a24a" width="13"/> <b>Extreme Networks</b>, and Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>.
