@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/user-attachments/assets/b931549c-03a6-40d7-abdd-a77e9623c486)
 
-<h2><img src="https://github.com/user-attachments/assets/2a9b9fce-1c56-4a27-8635-407dbf8804be" width=24px> About Me</h2>
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2000&bannerText=About+Me" />
 
 <p>
   I'm Thibault, Sr. Systems Engineer at <img src="https://github.com/user-attachments/assets/8f5e3c9f-34d1-41ac-8c28-7b8c7052a24a" width="13"/> <b>Extreme Networks</b>, and Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>.
@@ -14,7 +14,7 @@
   <a href="https://medium.com/@thibault.chevalleraud" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<h2><img src="https://github.com/user-attachments/assets/40383f6f-dc9e-434e-bbdf-211cf84dd1a8" width=16px> My Project & Github Gist</h2>
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2000&bannerText=My+Project+%26+Github+Gist" />
 
 <p align="center">
   <a href="https://github.com/tchevalleraud/extremenetworks-api-xiqse">
@@ -34,8 +34,7 @@
   </a>
 </p>
 
-
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=16px> Skills & Tools</h2>
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2000&bannerText=Skills+%26+Tools" />
 
 <p align="center">
   <a href="https://skillicons.dev">
