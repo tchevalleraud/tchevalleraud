@@ -20,22 +20,22 @@
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&bannerText=My+Projects+%26+Github+Gists&backgroundColor=%23440099&color=%237519f9&geoSeed=lg09DmpEDU" />
 <p align="left">
 	<a href="https://github.com/tchevalleraud/XIQSE-SDK-Python">
-		<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=XIQSE-SDK-Python&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
+		<img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=XIQSE-SDK-Python&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
 	</a>
 	<a href="https://github.com/tchevalleraud/ansible-test-semaphoreui">
-		<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
+		<img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
 	</a>
 	<a href="https://github.com/tchevalleraud/ansible-test-semaphoreui">
-		<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
+		<img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
 	</a>
 	<a href="https://github.com/tchevalleraud/ansible-test-semaphoreui">
-		<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
+		<img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
 	</a>
 	<a href="https://github.com/tchevalleraud/ansible-test-semaphoreui">
-		<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
+		<img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
 	</a>
 	<a href="https://github.com/tchevalleraud/ansible-test-semaphoreui">
-		<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
+		<img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
 	</a>
 </p>
 
