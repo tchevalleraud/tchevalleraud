@@ -15,24 +15,11 @@
 </a>
 
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&bannerText=My+Projects+%26+Github+Gists&backgroundColor=%23440099&color=%237519f9&geoSeed=lg09DmpEDU" />
-
-<p align="center">
-  <a href="https://github.com/tchevalleraud/extremenetworks-api-xiqse">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=extremenetworks-api-xiqse" />
-  </a>
-  <a href="https://github.com/tchevalleraud/how-to-extremenetworks">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=how-to-extremenetworks" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://gist.github.com/tchevalleraud/93a85ea7788d0a2e5e6294558b8a7ca4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=93a85ea7788d0a2e5e6294558b8a7ca4" />
-  </a>
-  <a href="https://gist.github.com/tchevalleraud/dab0244165c3a42702fe07377f5035f9">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=dab0244165c3a42702fe07377f5035f9" />
-  </a>
-</p>
+<p align="left">
+    <a href="https://github.com/tchevalleraud/XIQSE-SDK-Python">
+		<img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=XIQSE-SDK-Python&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
+	</a>
+  </p>
 
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2000&bannerText=Skills+%26+Tools" />
 
