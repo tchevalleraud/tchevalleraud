@@ -27,6 +27,9 @@
 	<a href="https://github.com/tchevalleraud/ansible-test-semaphoreui">
 		<img width="421" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866">
 	</a>
+	<a href="https://github.com/tchevalleraud/extreme-automation-stack">
+		<img width="421" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/pin/?username=tchevalleraud&repo=extreme-automation-stack&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866">
+	</a>
 </p>
 
 <h3 align="center">Gists projects</h3>
