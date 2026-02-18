@@ -9,7 +9,7 @@
 	I work at the intersection of networking and software engineering: network design and operations, automation (IaC), container platforms, and security. I like turning complex infrastructure problems into repeatable, documented solutions—then shipping them as code.
 </p>
 
-<p align="center">🔗 &nbsp;<b>Connect with me**</b></p>
+<p align="center">🔗 &nbsp;<b>Connect with me</b></p>
 <p align="center">
   <a href="https://github.com/tchevalleraud" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/tchib28" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
