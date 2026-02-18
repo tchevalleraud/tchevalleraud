@@ -20,16 +20,16 @@
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&bannerText=My+Projects+%26+Github+Gists&backgroundColor=%23440099&color=%237519f9&geoSeed=lg09DmpEDU" />
 <p align="left">
 	<a href="https://github.com/tchevalleraud/XIQSE-SDK-Python">
-		<img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=XIQSE-SDK-Python&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
+		<img width="279" src="https://github-readme-stats-p4w1m4sbd-tchevallerauds-projects.vercel.app/api/pin/?username=tchevalleraud&repo=XIQSE-SDK-Python&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
 	</a>
 	<a href="https://github.com/tchevalleraud/ansible-test-semaphoreui">
-		<img width="279" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
+		<img width="279" src="https://github-readme-stats-p4w1m4sbd-tchevallerauds-projects.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
 	</a>
 </p>
 
 <p align="left">
     <a href="https://gist.github.com/tchevalleraud/6ce5c7a7a0e4827462670db2b1b9a55f">
-		<img width="560" src="https://denvercoder1-github-readme-stats.vercel.app/api/gist?id=6ce5c7a7a0e4827462670db2b1b9a55f&layout=compact&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
+		<img width="560" src="https://github-readme-stats-p4w1m4sbd-tchevallerauds-projects.vercel.app/api/gist?id=6ce5c7a7a0e4827462670db2b1b9a55f&layout=compact&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
 	</a>
 </p>
 
