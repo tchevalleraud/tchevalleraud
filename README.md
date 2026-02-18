@@ -21,10 +21,10 @@
 
 <p align="left">
 	<a href="https://github.com/tchevalleraud/XIQSE-SDK-Python">
-		<img width="279" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/pin/?username=tchevalleraud&repo=XIQSE-SDK-Python&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
+		<img width="279" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/pin/?username=tchevalleraud&repo=XIQSE-SDK-Python&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866">
 	</a>
 	<a href="https://github.com/tchevalleraud/ansible-test-semaphoreui">
-		<img width="279" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
+		<img width="279" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/pin/?username=tchevalleraud&repo=ansible-test-semaphoreui&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866">
 	</a>
 </p>
 
