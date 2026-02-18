@@ -34,6 +34,9 @@
     <a href="https://gist.github.com/tchevalleraud/6ce5c7a7a0e4827462670db2b1b9a55f">
 		<img width="279" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/gist?id=6ce5c7a7a0e4827462670db2b1b9a55f&layout=compact&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866">
 	</a>
+    <a href="https://gist.github.com/tchevalleraud/93a85ea7788d0a2e5e6294558b8a7ca4">
+		<img width="279" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/gist?id=93a85ea7788d0a2e5e6294558b8a7ca4&layout=compact&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866">
+	</a>
 </p>
 
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&bannerText=Skills+%26+Tools&backgroundColor=%23440099&color=%237519f9&geoSeed=WK7uIOhTlt" />
