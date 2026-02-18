@@ -33,13 +33,13 @@
 
 <p align="left">
     <a href="https://gist.github.com/tchevalleraud/6ce5c7a7a0e4827462670db2b1b9a55f">
-		<img width="279" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/gist?id=6ce5c7a7a0e4827462670db2b1b9a55f&layout=compact&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866">
+		<img width="279" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/gist?id=6ce5c7a7a0e4827462670db2b1b9a55f&layout=compact&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false">
 	</a>
     <a href="https://gist.github.com/tchevalleraud/93a85ea7788d0a2e5e6294558b8a7ca4">
-		<img width="279" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/gist?id=93a85ea7788d0a2e5e6294558b8a7ca4&layout=compact&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866">
+		<img width="279" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/gist?id=93a85ea7788d0a2e5e6294558b8a7ca4&layout=compact&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false">
 	</a>
     <a href="https://gist.github.com/tchevalleraud/dab0244165c3a42702fe07377f5035f9">
-		<img width="279" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/gist?id=dab0244165c3a42702fe07377f5035f9&layout=compact&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866">
+		<img width="279" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/gist?id=dab0244165c3a42702fe07377f5035f9&layout=compact&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false">
 	</a>
 </p>
 
