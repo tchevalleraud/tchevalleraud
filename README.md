@@ -9,13 +9,14 @@
 	I work at the intersection of networking and software engineering: network design and operations, automation (IaC), container platforms, and security. I like turning complex infrastructure problems into repeatable, documented solutions—then shipping them as code.
 </p>
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
+<p aligne="center">🔗 &nbsp;**Connect with me**</p>
+<p align="center">
   <a href="https://github.com/tchevalleraud" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/tchib28" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/thibault-chevalleraud" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@thibault.chevalleraud" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
+<br><br/>
 
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&bannerText=My+Projects+%26+Github+Gists&backgroundColor=%23440099&color=%237519f9&geoSeed=lg09DmpEDU" />
 
