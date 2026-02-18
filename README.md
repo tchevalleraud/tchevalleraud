@@ -33,7 +33,7 @@
 	</a>
 </p>
 
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2000&bannerText=Skills+%26+Tools" />
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&bannerText=Skills+%26+Tools&backgroundColor=%23440099&color=%237519f9&geoSeed=WK7uIOhTlt" />
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
