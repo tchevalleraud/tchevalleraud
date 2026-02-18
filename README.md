@@ -19,8 +19,6 @@
 
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&bannerText=My+Projects+%26+Github+Gists&backgroundColor=%23440099&color=%237519f9&geoSeed=lg09DmpEDU" />
 
-<h3 align="center">Github projects</h3>
-
 <p align="left">
 	<a href="https://github.com/tchevalleraud/XIQSE-SDK-Python">
 		<img width="279" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/pin/?username=tchevalleraud&repo=XIQSE-SDK-Python&theme=react&bg_color=20004c&title_color=FFFFFF&hide_border=false&icon_color=F8D866&show_icons=true">
