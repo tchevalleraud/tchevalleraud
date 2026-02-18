@@ -83,14 +83,14 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" alt="RabbitMQ" title="RabbitMQ"/></code>
 </div>
 
-<h2>:trophy: My stats</h2>
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&bannerText=My+Stats&backgroundColor=%23440099&color=%237519f9&geoSeed=OQHviAVpNJ" />
 
 <p align="center">
   <a href="https://github.com/tchevalleraud/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tchevalleraud" />
+    <img height=200 align="center" src="https://github-readme-stats-pearl-phi-99.vercel.app/api?username=tchevalleraud" />
   </a>
   <a href="https://github.com/tchevalleraud/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tchevalleraud&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats-pearl-phi-99.vercel.app/api/top-langs?username=tchevalleraud&layout=compact&langs_count=8&card_width=320" />
   </a>
 </p>
 
